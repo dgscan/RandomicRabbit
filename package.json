@@ -1,0 +1,28 @@
+{
+  "name": "randomicrabbit",
+  "version": "1.0.0",
+  "description": "RandomicRabbit",
+  "main": "server.js",
+  "dependencies": {
+    "ajax.js": "^2.0.0",
+    "node.js": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgscan/RandomicRabbit.git"
+  },
+  "keywords": [
+    "randomicrabbit"
+  ],
+  "author": "doguscan-yaginli",
+  "license": "SEE LICENCE IN readme.md",
+  "bugs": {
+    "url": "https://github.com/dgscan/RandomicRabbit/issues"
+  },
+  "homepage": "https://github.com/dgscan/RandomicRabbit#readme"
+}
